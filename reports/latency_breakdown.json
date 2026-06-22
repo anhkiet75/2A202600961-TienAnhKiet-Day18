@@ -1,0 +1,6 @@
+{
+  "chunking_seconds": 0.1646,
+  "enrichment_seconds": 0.002,
+  "indexing_seconds": 3.3326,
+  "reranker_init_seconds": 0.0
+}
